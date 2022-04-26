@@ -1,0 +1,6 @@
+print("\n\n\nWell well well. Ive been expecting you.")
+f_name = input("However I can't seem to remember your name. What was it? ")
+print("We meet at last... " + f_name + "...")
+print("Hmmm... " + f_name + "...\n" + f_name + "...\n" + f_name + "...\n" + f_name + "...\n"  + f_name + " doesn't ring any bells.")
+l_name = input("What's the REST of your name? ")
+print("Ah yes. You're " + l_name + ", " + f_name + " " + l_name + ". We meet at last. \nFOR THE FIRST AND LAST TIME!!\n\n\n")

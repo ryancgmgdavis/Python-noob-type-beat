@@ -1,0 +1,23 @@
+
+#colors (R, G, B)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (25, 25, 25)
+LIGHTGRAY = (100, 100, 100)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+YELLOW = (255, 255, 0)
+
+#screen stuff
+TITLE = "Battle Beetles"
+WIDTH = 600
+HEIGHT = 450
+
+#text
+F_COLOR = BLACK
+#40
+F_SIZE = 40
+T1_HEIGHT = HEIGHT - F_SIZE - 20
+T2_HEIGHT = T1_HEIGHT - F_SIZE - 10
+T_SPACE = F_SIZE //2
+
